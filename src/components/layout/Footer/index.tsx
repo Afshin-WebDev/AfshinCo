@@ -11,8 +11,8 @@ import LayoutSpacing from "./LayoutSpacing";
 const socialsData: SocialNetworks[] = [
   {
     id: 1,
-    icon: <FaTwitter />,
-    url: "https://x.com",
+    icon: <FaLinkedin />,
+    url: "https://linkedin.com/in/afshin-fallahnejad",
   },
   {
     id: 2,
@@ -21,11 +21,6 @@ const socialsData: SocialNetworks[] = [
   },
   {
     id: 3,
-    icon: <FaLinkedin />,
-    url: "https://linkedin.com",
-  },
-  {
-    id: 4,
     icon: <FaGithub />,
     url: "https://github.com/Afshin-WebDev",
   },
