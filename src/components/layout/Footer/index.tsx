@@ -76,7 +76,7 @@ const Footer = () => {
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
               Afshin.co © Made by{" "}
               <Link
-                href="https://github.com/Afshin-WebDev"
+                href="https://linkedin.com/in/afshin-fallahnejad"
                 className="text-black font-medium"
               >
                 Afshin Fallahnejad
