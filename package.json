@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "push:github": "git push origin HEAD",
+    "push:hamgit": "git push hamgit HEAD"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.0",

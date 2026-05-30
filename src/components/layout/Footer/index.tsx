@@ -71,18 +71,18 @@ const Footer = () => {
             </div>
           </nav>
 
-          <hr className="h-[1px] border-t-black/10 mb-6" />
-          <div className="flex flex-col sm:flex-row justify-center items-center mb-2">
-            <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
-              Afshin.co © Made by{" "}
-              <Link
-                href="https://linkedin.com/in/afshin-fallahnejad"
-                className="text-black font-medium"
-              >
-                Afshin Fallahnejad
-              </Link>
-            </p>
-          </div>
+            <hr className="h-[1px] border-t-black/10 mb-6" />
+            <div className="flex flex-col sm:flex-row justify-center items-center mb-2">
+              <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
+                Afshin.co © Made by{" "}
+                <Link
+                  href="https://linkedin.com/in/afshin-fallahnejad"
+                  className="text-black font-medium"
+                >
+                  Afshin Fallahnejad
+                </Link>
+              </p>
+            </div>
         </div>
         <LayoutSpacing />
       </div>
